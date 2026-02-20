@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pywinauto==0.6.8
+pygetwindow==0.0.9
+Appium-Python-Client==2.11.0
+selenium==4.15.0
+pydantic==2.5.2
+websockets==12.0
+pynput==1.7.7
